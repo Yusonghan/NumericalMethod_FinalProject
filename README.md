@@ -1,5 +1,7 @@
 For my final project in numerical methods, I chose to address a common daily-life issue by combining numerical methods to create a simple app. The project is designed to help users automate decisions about what to eat while balancing their nutrition.
+
 all the data is created by ChatGPT
+
 Here's how the app works:
 
 User Input: Users input their physical data and health habits into the app.
