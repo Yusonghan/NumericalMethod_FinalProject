@@ -3,8 +3,8 @@ import flet as ft
 import googlemaps
 
 # Initialize the client
-gmaps = googlemaps.Client(key='AIzaSyB2URgchBS3nhUTufYBP0KL1nUoX3ylueM')
-# AIzaSyB2URgchBS3nhUTufYBP0KL1nUoX3ylueM
+gmaps = googlemaps.Client(key='#######')
+# google API key
 
 nutrition_df = pd.read_excel('nutrition.xlsx')
 
